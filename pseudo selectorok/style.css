@@ -1,0 +1,20 @@
+.session {
+  width: 200px;
+  height: fit-content;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  padding: 30px;
+}
+
+#b,
+#c,
+#d,
+#e,
+#f,
+#g {
+  border-top: 1px solid black;
+}
+
+.session :hover {
+  background-color: orange;
+}
