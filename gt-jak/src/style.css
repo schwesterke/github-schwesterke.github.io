@@ -1,0 +1,48 @@
+main {
+  border: 10px solid #4285f4;
+  padding: 0px;
+  width: 250px;
+  margin-left:600px;
+  }
+h1 {
+  background:#E67676;
+  font-family: 'Baloo Thambi 2';
+  text-align: center;
+  font-weight: bold;
+  font-size:24px;
+  color:white;
+  padding:40px;
+  margin: 0px;
+}
+  h2 {
+  background: #F2F062;
+  font-family: 'Baloo Thambi 2';
+  text-align: center;
+  font-weight: bold;
+  font-size:24px;
+    color:white;
+    padding:40px;
+    margin: 0px;
+  }
+  h3 {
+  background: #A9E6E6;
+  font-family: 'Baloo Thambi 2';
+  text-align: center;
+  font-weight: bold;
+  font-size:24px;
+    color:white;
+    padding:40px;
+    margin: 0px;
+  }
+  h4 {
+  background: #7692E4;
+  font-family: 'Baloo Thambi 2';
+  text-align: center;
+  font-weight: bold;
+  font-size:24px;
+    color:white;
+    padding:40px;
+    margin: 0px;
+  }
+     
+}

@@ -1,0 +1,31 @@
+h1{
+  border: 8px solid blue;
+  background: #E67676;
+  color: white;
+}
+.centered{
+  text-align: center;
+  width: 300px;
+  height: 200px;
+  
+     
+}
+.north2{
+  padding: 20px
+}
+h2{
+  border: 8px solid blue;
+  background: #A9E6E6;
+  color: white;
+  
+}
+.south{
+  font-size: 30px
+}
+.south2{
+  padding: 30px;
+  font-size: 30px;
+}
+h5 {
+  font-size:20px;
+}

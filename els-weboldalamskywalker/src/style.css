@@ -1,0 +1,103 @@
+h1 {
+  font-family: 'Abril Fatface', cursive #222;   font-size:50px;
+  background-color:grey;
+  color:white;
+  text-align:center;
+  margin-left:0px;
+  margin-right:0px;
+}
+h2 {
+  font-family: 'Abril Fatface', cursive #222; 
+  font-size:50px;
+  font-weight:bold;
+  margin:0;
+}
+h3 {
+  font-family: 'Abril Fatface', cursive #222;
+  font-size:70px;
+  margin:0;
+}
+h4 {
+  font-family: 'Merriweather', serif;
+  font-variant: small-caps;
+  font-size:25px;
+  margin-left:350px;
+  margin-right:350px;
+}
+h5 {
+  font-family: 'Merriweather', serif;
+  font-size:20px;
+  margin-left:350px;
+  margin-right:350px;
+}
+h6 {
+  font-family: 'Merriweather', serif;
+  font-size:15px;
+  font-style:italic;
+  margin-left:350px;
+  margin-right:350px;
+}
+p {
+  font-family:'Josefin Sans', sans-serif;
+  font-size:18px;
+  margin-left:350px;
+  margin-right:350px;
+}
+li {
+  font-family:'Josefin Sans', sans-serif;
+  font-size:18px;
+  margin-left:400px;
+  margin-right:350px;
+}
+.head {
+  display:flex;
+  position:relative;
+  justify-content:center;
+  background-image:url( "https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png" alt="Anakin");
+}
+.title {
+  display:flex;
+  justify-content:center;
+  width:800px;
+  height:400px;
+  
+}
+span.a {
+  display:inline;
+  font-weight:bold;
+   }
+ 
+.hi {
+  display:inline;
+  position:absolute;
+  top:200px;
+  
+}
+.quotation {
+  background-color:darkgrey;
+  color: white;
+  font-family: 'Abril Fatface', cursive #222;
+  font-size:50px;
+  margin-left:350px;
+  margin-right:450px;
+  
+}
+#blackline {
+  height:3px;
+  width:950px;
+  background-color:black;
+  margin-top:50px;
+  margin-bottom:50px;
+  margin-left:330px;
+  margin-right:350px;
+}
+
+blockquote::before {
+  content: 'Together';
+  font-weight:bold;
+  font-size:100px;
+}
+.body {
+  display:inline-block;
+  justify-content:center;
+} 

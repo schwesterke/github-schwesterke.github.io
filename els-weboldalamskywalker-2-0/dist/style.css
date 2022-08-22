@@ -1,0 +1,198 @@
+h1 {
+  font-family: 'Abril Fatface', cursive #222;
+  font-size:80px;
+  background-color:grey;
+  color:white;
+  text-align:center;
+  
+}
+h2 {
+  font-family: 'Abril Fatface', cursive #222; 
+  font-size:50px;
+  font-weight:bold;
+  margin:0;
+}
+h3 {
+  font-family: 'Abril Fatface', cursive #222;
+  font-size:70px;
+  margin:0;
+}
+h4 {
+  font-family: 'Merriweather', serif;
+  font-variant: small-caps;
+  font-size:25px;
+  margin-left:50px;
+  margin-right:50px;
+}
+h5 {
+  font-family: 'Merriweather', serif;
+  font-size:20px;
+  margin-left:10px;
+  margin-right:10px;
+}
+h6 {
+  font-family: 'Merriweather', serif;
+  font-size:15px;
+  font-style:italic;
+  margin-left:10px;
+  margin-right:10px;
+}
+p {
+  font-family:'Baloo Thambi 2', cursive;
+  font-size:18px;
+  margin-left:0px;
+  margin-right:0px;
+}
+li {
+  font-family:'Baloo Thambi 2', cursive;
+  font-size:18px;
+  margin-left:0px;
+  margin-right:0px;
+}
+.head {
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  position:relative;
+  justify-content:center;
+  /*border:5px solid purple;*/
+}
+.title {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  width:730px;
+  height:230px;  
+  margin-top:0;
+  margin-left:0px;
+  /*border:5px solid black;*/
+  
+}
+#Anakin {
+  display:flex;
+  width:730px;
+    
+}
+#top {
+  display:flex;
+  position:fixed;
+  background-color:black;
+  color:white;
+  justify-content:space-evenly;
+  height: 80px;
+  width: 100%;
+}
+ .button {
+  font-family: 'Rubik Distressed', cursive;
+  font-size:30px;
+  color:white;
+  background-color:black;
+    
+}
+span.a {
+  display:inline;
+  font-weight:bold;
+   }
+ 
+.hi {
+  position:absolute;
+  top:180px;
+  
+}
+#together {
+  font-size:120px;
+  margin: 50px;
+  
+}
+#iFind {
+  font-size:100px;
+  margin: 50px;
+}
+.quotation {
+  background-color:grey;
+  display:flex;
+  text-align:center;
+  margin-left:0px;
+  margin-right:0px;
+  padding:20px;
+  width:680px;
+  /*border:5px solid red;*/
+  
+}
+
+.body {
+  display:inline;
+  justify-content:flex-start;
+  /*border:5px solid grey;*/
+  height:230px;
+  width:650px;
+  margin-left:10px;
+  margin-top:10px;
+} 
+.container1 {
+  display:flex;
+  flex-wrap:wrap;
+  align-items:stretch;
+  height:230px;
+  width:100%;
+  margin-top:70px;
+  /*border:5px solid blue;*/
+}
+.container2 {
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  align-items:stretch;
+  height:700px;
+  width:100%;
+  margin-top:80px;
+  /*border:5px solid yellow;*/
+}
+.container3 {
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  align-items:stretch;
+  height:700px;
+  width:100%;
+  margin-top:100px;
+  /*border:5px solid green;*/
+}
+.container4 {
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  align-items:stretch;
+  height:500px;
+  width:100%;
+  margin-top:80px;
+  /*border:5px solid pink;*/
+}
+
+.notable {
+  display:flex;
+  flex-wrap:wrap;
+  width:530px;
+  height:230px;  
+  margin-top:0;
+  margin-left:10px;
+  /*border:5px solid grey;*/
+}
+.experience {
+  display:flex;
+  flex-wrap:wrap;
+  width:530px;
+  height:230px;  
+  margin-top:0;
+  margin-left:10px;
+  /*border:5px solid grey;*/
+}
+.formal {
+  display:flex;
+  flex-wrap:wrap;
+  width:530px;
+  height:230px;  
+  margin-top:0;
+  margin-left:10px;
+  /*border:5px solid grey;*/
+}

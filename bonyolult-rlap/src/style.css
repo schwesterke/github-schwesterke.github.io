@@ -1,0 +1,12 @@
+form { font-family: 'Poppins', sans-serif;
+}
+input[type=text] {
+display: block;
+}
+input[type=radio] {
+  display: block;
+}
+button {
+  background-color: silver;
+  border-color: silver;
+}

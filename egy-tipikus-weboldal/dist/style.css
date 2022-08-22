@@ -1,0 +1,50 @@
+.container {
+  background-color:purple;
+  height:50px;
+ 
+}
+nav {
+  display:flex;
+  flex-direction:row;
+  text-align: left;
+}
+.button1 {
+  background-color:cyan;
+  height:30px;
+  width:100px;
+  margin:10px;
+  
+}
+.button2 {
+  background-color:cyan;
+  height:30px;
+  width:150px;
+  margin:10px;
+  
+}
+.button3 {
+  background-color:cyan;
+  height:30px;
+  width:100px;
+  margin:10px;
+  
+}
+.container2 {
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  height:500px;
+}
+.yellow {
+  background-color:yellow;
+  height:500px;
+  flex-grow:4;
+}
+.green {
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  background-color:lime;
+  height:500px;
+  flex-grow:1;
+}

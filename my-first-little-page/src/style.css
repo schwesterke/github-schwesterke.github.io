@@ -1,0 +1,19 @@
+h1 {
+  font-family: 'Baloo Thambi 2', cursive;
+}
+img {
+  width: 150px;
+}
+div {
+  display: flex;
+  font-family: 'Baloo Thambi 2', cursive;
+}
+
+section {
+  width:200px;
+  text-align:center;
+}
+link {
+  display: block;
+  text-align:center;
+}
